@@ -1,0 +1,72 @@
+{
+  "artefacto": "altas_limpias",
+  "reto": "ds-reto-s01",
+  "sprint": "sprint1",
+  "generado_en": "2026-11-02T19:46:26.293Z",
+  "contenido": {
+    "artefacto": "altas_limpias",
+    "fuente": "Listado de altas enviado por Operations & Cohortes",
+    "columnas": [
+      "nombre",
+      "email",
+      "programa"
+    ],
+    "altas": [
+      [
+        "Alba Requena",
+        "alba.requena@bridge.example",
+        "Data Science"
+      ],
+      [
+        "Sergio Molina",
+        "sergio.molina@bridge.example",
+        "IA Engineering"
+      ],
+      [
+        "Carla Vidal",
+        "carla.vidal@bridge.example",
+        "Ciberseguridad"
+      ],
+      [
+        "Iván Tejero",
+        "ivan.tejero@bridge.example",
+        "Data Science"
+      ],
+      [
+        "Marta Sanchís",
+        "marta.sanchis@bridge.example",
+        "IA Engineering"
+      ],
+      [
+        "Adrián Gascó",
+        "adrian.gasco@bridge.example",
+        "Ciberseguridad"
+      ],
+      [
+        "Noa Ferrán",
+        "noa.ferran@bridge.example",
+        "Data Science"
+      ],
+      [
+        "Óscar Ibáñez",
+        "oscar.ibanez@bridge.example",
+        "IA Engineering"
+      ],
+      [
+        "Elena Cortés",
+        "elena.cortes@bridge.example",
+        "Data Science"
+      ]
+    ],
+    "descartes": [
+      [
+        "Nuria Bel ; nuria.bel.bridge.example ; Data Science",
+        "email_invalido"
+      ],
+      [
+        "SERGIO   MOLINA ;  Sergio.Molina@bridge.example  ; IA Engineering",
+        "duplicado"
+      ]
+    ]
+  }
+}
